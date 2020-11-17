@@ -1,0 +1,28 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+    margin-bottom: 8px;
+}
+
+#inputwindow {
+    margin-bottom: 10px;
+}
+
+#memoryWindow {
+    resize: none;
+    font-size: small;
+    height: 100px;
+}
+
+.card-body {
+    background-color: rgb(28, 51, 44);
+}
+
+.btn {
+    margin: 5px 0px;
+}
